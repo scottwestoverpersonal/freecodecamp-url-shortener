@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "ejs": "2.4.1",
-    "express": "4.13.3"
+    "express": "4.13.3",
+      "mongodb": "^2.1.19"
   },
   "repository": {
     "type": "git",
